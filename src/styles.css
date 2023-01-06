@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+}
+.card {
+  width: 25rem;
+  margin: 20px;
+}
+.head {
+  margin: 10px;
+  text-align: center;
+}
+.user {
+  margin-left: 10px;
+}
